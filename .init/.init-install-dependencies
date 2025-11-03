@@ -1,0 +1,4 @@
+{
+    "command": "sudo apt-get update && sudo apt-get install -y qt6-base-dev qt6-base-dev-tools cmake build-essential",
+    "working_directory": "/tmp/kavia/workspace/code-generation/pure-clock-26-35/clock_native_app"
+}
